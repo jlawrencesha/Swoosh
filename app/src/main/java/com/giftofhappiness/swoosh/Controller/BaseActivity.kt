@@ -1,4 +1,4 @@
-package com.giftofhappiness.swoosh
+package com.giftofhappiness.swoosh.Controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

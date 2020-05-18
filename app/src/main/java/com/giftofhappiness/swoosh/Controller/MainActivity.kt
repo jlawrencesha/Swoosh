@@ -1,8 +1,8 @@
-package com.giftofhappiness.swoosh
+package com.giftofhappiness.swoosh.Controller
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.giftofhappiness.swoosh.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : BaseActivity() {
